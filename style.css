@@ -1,0 +1,12 @@
+#main {
+    background-image: linear-gradient(to right, white , yellow);
+}
+
+#part1 {
+    text-shadow: 1px 1px blue;
+}
+
+#part2 {
+    visibility: hidden;
+    text-shadow: 1px 1px red;
+}
